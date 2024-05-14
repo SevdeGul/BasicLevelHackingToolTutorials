@@ -1,4 +1,4 @@
-# BASIC LEVEL HACKING TOOL
+# BASIC LEVEL HACKING TOOL TUTORIALS
 
 Bu repo'da giriş seviyesinde HACKING TOOL'ları bulunmaktadır. Tüm araçlar python dili kullanılarak yazılmıştır.
 
